@@ -1,0 +1,28 @@
+name: "The 3 C's"
+favicon: null
+layout_spectrum: 0.17912048008292913
+typography_spectrum: 0.3897401769645512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4732359715271741
+  lightness: 0.2560305576771498
+  saturation: 0.12795995827764273
+  rhythmicContrast: 0.9397326055914164
+purpose: []
